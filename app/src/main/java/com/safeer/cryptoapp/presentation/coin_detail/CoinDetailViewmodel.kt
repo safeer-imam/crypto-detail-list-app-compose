@@ -1,6 +1,5 @@
 package com.safeer.cryptoapp.presentation.coin_detail
 
-import android.util.Log
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.SavedStateHandle
