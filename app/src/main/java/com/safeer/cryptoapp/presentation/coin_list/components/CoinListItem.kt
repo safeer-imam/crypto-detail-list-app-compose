@@ -55,7 +55,7 @@ fun CoinListItemPreview() {
         Coin(
             id = "bitcoin",
             isActive = true,
-            name = "Bitcoin aaaaaaaaaaaaaaaaaaaaaaaasss ddddddddddd",
+            name = "Bitcoin",
             rank = 1,
             symbol = "BTC"
         )
